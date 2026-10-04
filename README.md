@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Halo, saya Ebin Diarta
 
-<!--
-**EbinDiarta/EbinDiarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Informatika  
+🏫 Universitas Jambi  
+📍 Kerinci, Jambi  
+💻 Web Developer  
+🎮 Game Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tentang Saya
+
+Saya adalah mahasiswa Informatika yang tertarik
+dengan pengembangan website, aplikasi, dan game.
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- PHP
+- MySQL
+- Python
+- C#
+- Unity
+
+---
+
+## 📫 Contact
+
+📧 Email: ebindiartapratama@gmail.com
+
+🌐 Website: [https://ebindiarta.github.io/](https://ebindiarta.github.io/My-Journey/)
+
+---
+
+⭐ Terima kasih sudah mengunjungi profil saya!
