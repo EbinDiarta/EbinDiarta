@@ -1,11 +1,12 @@
-# 👋 Halo, saya Ebin Diarta
+# 
 
 🎓 Mahasiswa Informatika  
 🏫 Universitas Jambi  
 📍 Kerinci, Jambi  
 💻 Web Developer  
 🎮 Game Developer  
-
+🤍 (30 : 21)
+🤲 (94 : 5-6)
 ---
 
 ## 🚀 Tentang Saya
