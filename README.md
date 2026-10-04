@@ -1,28 +1,10 @@
-# 
-
 🎓 Mahasiswa Informatika  
 🏫 Universitas Jambi  
 📍 Kerinci, Jambi  
 💻 Web Developer  
 🎮 Game Developer  
-🤍 (30 : 21)
+🤍 (30 : 21)  
 🤲 (94 : 5-6)
----
-
-## 🚀 Tentang Saya
-
-Saya adalah mahasiswa Informatika yang tertarik
-dengan pengembangan website, aplikasi, dan game.
-
-## 🛠️ Skills
-
-- HTML
-- CSS
-- PHP
-- MySQL
-- Python
-- C#
-- Unity
 
 ---
 
@@ -30,7 +12,7 @@ dengan pengembangan website, aplikasi, dan game.
 
 📧 Email: ebindiartapratama@gmail.com
 
-🌐 Website: [https://ebindiarta.github.io/](https://ebindiarta.github.io/My-Journey/)
+🌐 Website: [My Journey](https://ebindiarta.github.io/My-Journey/)
 
 ---
 
